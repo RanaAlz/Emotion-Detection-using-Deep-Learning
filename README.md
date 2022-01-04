@@ -1,2 +1,32 @@
-# Emotion-Detection-using-Deep-Learning
-Project(5) for T5 Data Science Bootcamp - SDAIA Academy
+# Emotion Detection using Deep Learning
+
+## Introduction:
+This project will be about building the neural network which classifies the human face images into 5 categories(happiness, neutral, sadness, anger, surprise, disgust, fear) using deep learning models and classification techniques
+
+## Data description:
+The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces divided into train and test dataset. Images are categorized based on the emotion shown in the facial expressions (happiness, neutral, sadness, anger, surprise, disgust, fear).
+
+##### Data sorce [https://www.kaggle.com/ananthu017/emotion-detection-fer]
+
+## Tools:
+
+### Softwares:
+
+* Jupyter
+* Github
+* Canva
+* Zoom
+
+### Languages & Library
+
+* Python
+* Pandas
+* numpy
+* seaborn
+* Sklearn
+* keras
+
+## Team Members
+
+* Abeer Almdani
+* Rana Alzahrani
