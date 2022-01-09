@@ -8,25 +8,6 @@ The dataset contain 35,685 examples of 48x48 pixel gray scale images of faces di
 
 ##### Data sorce [https://www.kaggle.com/ananthu017/emotion-detection-fer]
 
-## Tools:
-
-### Softwares:
-
-* Jupyter
-* Github
-* Canva
-* Zoom
-
-### Languages & Library
-
-* Python
-* Pandas
-* numpy
-* seaborn
-* Sklearn
-* keras
-
 ## Team Members
-
 * Abeer Almdani
 * Rana Alzahrani
