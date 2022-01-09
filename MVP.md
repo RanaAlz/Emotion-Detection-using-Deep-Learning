@@ -11,7 +11,7 @@ This project will be about building the neural network which classifies the huma
 - Validation Loss: 1.7645231485366821
 - Train/Validation Diff: -0.09425878524780273
 
-![alt Simple Baseline NN accuracy graph](Images/Simple Baseline NN accuracy graph.png)
+![plot](https://github.com/AbeerAB/Emotion-Detection-using-Deep Learning/blob/3e060d7f17fccc436e0a660429ede4f6ad4f0ab3/Images/Simple%20Baseline%20NN%20accuracy%20graph.png)
 
 #### Neural Network Baseline
 - Training Accuracy: 26.6440212726593
