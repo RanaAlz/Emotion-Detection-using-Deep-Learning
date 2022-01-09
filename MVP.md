@@ -21,6 +21,9 @@ This project will be about building the neural network which classifies the huma
 - Validation Loss: 1.7598847150802612
 - Train/Validation Diff: 0.4738450050354004
 
+![image](https://user-images.githubusercontent.com/60429676/148694061-44d60bfb-2455-4ab4-9476-a34b2b31848e.png)
+
+
 #### Simple Convolutional Neural Network Baseline
 - Training Accuracy: 33.17655324935913
 - Training Loss: 1.6737563610076904
