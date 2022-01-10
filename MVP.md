@@ -33,3 +33,8 @@ This project will be about building the neural network which classifies the huma
 
 ![image](https://user-images.githubusercontent.com/60429676/148694084-bfdaa0e5-1435-44ba-90ae-47784b5c9ed3.png)
 
+
+## Model:
+### CNN Model
+- The best score : train = 0.9422 - val = 0.6057
+
